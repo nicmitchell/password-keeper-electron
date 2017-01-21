@@ -1,0 +1,24 @@
+.accountCard {
+  border-right: 1px solid rgba(0,0,0,0.2);
+  box-shadow: 1px 1px 0px rgba(0,0,0,0.1);
+  margin: 0.5rem 0.5rem 3rem;
+  padding: 0.5rem;
+  border-bottom: 1px solid rgba(0,0,0,0.3);
+  border-top: 1px solid rgba(0,0,0,0.1);
+  border-left: 1px solid rgba(0,0,0,0.1);
+  float: left;
+}
+
+/*
+.new {
+  width: 96%
+}
+
+.new .input-group-addon {
+  display: none;
+}
+
+.account-card.new span.input-group.input-group-sm {
+  display: block;
+}
+*/
